@@ -12,7 +12,7 @@
 			"path": "pages/index/index",
 			// 页面的局部配置，相当于小程序中的页面.json
 			"style": {
-				"navigationBarTitleText": "小U商城"
+				"navigationBarTitleText": "我的商城"
 			}
 		},
 		{
